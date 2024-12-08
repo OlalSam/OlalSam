@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OlalSam
 - 👀 I’m interested in Django,Lavren and Jakarta
 - 🌱 I’m currently learning howto web applications
-- 💞️ I’m looking to collaborate on creating a websites and cool ideas
+- I’m looking to collaborate on creating a websites and cool ideas
 - 📫 How to reach me olal01101001@gmail.com
 
 <!---
