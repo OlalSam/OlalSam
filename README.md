@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @OlalSam<br>👀 I’m interested in Java and Python<br>🌱 I’m currently learning how to build web applications<br>I’m looking to collaborate on creating dynamic Business solutions<br>Currently learning about AI agents and integration<br>📫 How to reach me olal01101001@gmail.com
+👋 Hi, I’m @OlalSam<br>👀 I’m interested in Java and Python<br>🌱 I’m currently learning how to build web applications<br>I’m looking to collaborate on creating dynamic Business solutions<br>Currently learning about AI agents and integration<br>📫 How to reach me olalsamuel01@gmail.com
 
 
 ## 🌐 Socials:
